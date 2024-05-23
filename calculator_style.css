@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f2f3f4;
+    color: #fdfffc;
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2015/07/02/10/13/sky-828648_960_720.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size: 45px;
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+    border-style: none;
+
+}
+
+.btn:hover{
+    background-color:yellow;
+    cursor: pointer;
+}
+
+
+
